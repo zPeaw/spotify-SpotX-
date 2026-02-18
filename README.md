@@ -1,6 +1,9 @@
 This is not the original repository. This is only the Python version of the real repository, and everything fully belongs to the original repository owner.
 https://github.com/r3mz0/Spotify-win
 
+icinde ad-block bunulur 
+t includes a built-in ad blocker.
+
 # Python Scripts for Spotify-win / Spotify-win için Python Scriptleri
 
 [English](#english) | [Türkçe](#türkçe)

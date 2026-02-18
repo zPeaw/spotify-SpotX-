@@ -1,0 +1,10 @@
+# No external dependencies required for basic usage.
+# The scripts use standard Python libraries:
+# - os
+# - subprocess
+# - shutil
+# - glob
+# - locale
+# - ctypes
+# - tkinter (usually included with Python)
+# - threading
